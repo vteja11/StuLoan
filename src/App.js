@@ -10,7 +10,7 @@ function App() {
       <Comp1 />
       <header className="App-header">
        <p>
-         Why EMI when you have 800 different way to finance your loan
+         Why EMI when you are have 800 different way to finance your loan
         </p>
         <a
           className="App-link"
