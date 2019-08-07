@@ -1,0 +1,20 @@
+.divtag{
+  background-color: #282c34;
+  min-height: 10vh;
+  min-width: 5vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start ;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.h2tag{
+	margin-left: auto;
+	margin-bottom: auto ;
+	padding-right: 5px ;
+}
+.logotag{
+	height:8vmin;
+	padding:10px;
+}

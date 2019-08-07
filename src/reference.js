@@ -1,16 +1,14 @@
 import React from 'react';
 import logo from './Logo.png';
 import './App.css';
-import Comp1 from './comp1';
 
 function App() {
   return (
-
-    <div >
-      <Comp1 />
+    <div className="App">
       <header className="App-header">
-       <p>
-         Why EMI when you have 800 different way to finance your loan
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
@@ -18,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn more
+          Learn React
         </a>
       </header>
     </div>
